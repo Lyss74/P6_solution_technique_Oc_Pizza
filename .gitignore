@@ -1,0 +1,8 @@
+__pycache__
+desktop.ini
+.idea/*
+Include/*
+Lib/*
+Scripts/*
+tcl/*
+
